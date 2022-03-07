@@ -2034,3 +2034,33 @@ section {
   font-size: 13px;
   color: #012970;
 }
+
+.btn {
+  font-size: x-large;
+  padding: 5%;
+  background-color: dodgerblue;
+  margin: 5%;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn:hover {
+ background-color: lightskyblue;
+  color: black;
+  transition-delay: 0.1s;
+}
+
+.btn-soon {
+  font-size: x-large;
+  padding: 5%;
+  background-color: grey;
+  margin: 5%;
+  color: white;
+  border-radius: 5px;
+}
+
+.btn-soon:hover {
+  background-color: lightskyblue;
+  color: dimgrey;
+  transition-delay: 0.1s;
+}
